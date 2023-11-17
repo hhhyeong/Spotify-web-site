@@ -8,4 +8,4 @@ https://noona-spotify.netlify.app/#
 
 https://flexboxfroggy.com/#ko
 
-![Uploading image.png…]()
+![image](https://github.com/hhhyeong/Spotify-web-site/assets/22636369/e0df4445-6c85-400c-bb1f-5add98c04ee6)
